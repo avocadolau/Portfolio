@@ -2651,7 +2651,7 @@ input, select, textarea {
 					background-position: center;
 					background-repeat: no-repeat;
 					background-size: 100% 100%;
-					opacity: 0.1;  /*changed*/
+					opacity: 0;  /*changed*/
 					z-index: 2;
 				}
 
@@ -2740,11 +2740,6 @@ input, select, textarea {
 
 			.tiles article.style6 > .image:before {
 				background-color: #8499e7;
-			}
-
-			.tiles article.style7 > .image:before {
-				background-color: #f2849e;
-				opacity: 0.9;
 			}
 
 
